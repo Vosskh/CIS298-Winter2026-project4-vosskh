@@ -1,5 +1,3 @@
-# from https://www.py4e.com/html3/15-database
-
 import sqlite3
 import os
 
